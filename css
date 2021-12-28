@@ -15,8 +15,11 @@
     width:100% margin-left:10px;
   }
   }
+  div.col-lg-4, div.col-md-6, div.col-sm-12{
+  border:black, background-color:orange, background-padding:10px 10 10 10, margin-right:10px, margin-left:10px;
+  }
  section> div{
-  position:relative top:30px ;
+  position:relative top:40px ;
 }
 div> div{
   position: absolute top:0px right:0px,
